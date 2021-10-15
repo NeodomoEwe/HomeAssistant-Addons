@@ -12,4 +12,5 @@ https://github.com/NeodomoEwe/HomeAssistant-Addons/
 
 ## Provided add-ons
 
-- [hassio-cloudflareipupdater](https://github.com/NeodomoEwe/hassio-cloudflareipupdater) Dynamic IP Updater for Cloudflare in Home Assistant
+- [hassio-cloudflareipupdater](https://github.com/NeodomoEwe/HomeAssistant-Addons/tree/main/hassio_cloudflareipupdater) Dynamic IP Updater for Cloudflare in Home Assistant
+- [hassio-hotspot](https://github.com/NeodomoEwe/HomeAssistant-Addons/tree/main/hassio-hotspot) Home Assistant addon to let you create a WiFi access point
