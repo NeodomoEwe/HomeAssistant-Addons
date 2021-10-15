@@ -4,7 +4,7 @@
   "slug": "hassio_cloudflareipupdater",
   "description": "Dynamic IP Updater for Cloudflare in Home Assistant",
   "arch": ["armhf", "armv7", "aarch64", "amd64", "i386"],
-  "url": "https://github.com/NeodomoEwe/HomeAssistant-Addons/hassio_cloudflareipupdater",
+  "url": "https://github.com/NeodomoEwe/HomeAssistant-Addons/tree/main/hassio_cloudflareipupdater",
   "startup": "system",
   "boot": "auto",
 
