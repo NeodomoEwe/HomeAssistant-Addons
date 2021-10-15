@@ -1,4 +1,4 @@
-# hassio-addons
+# HomeAssistant Addons
 
 More add-ons for your Home Assistant
 
