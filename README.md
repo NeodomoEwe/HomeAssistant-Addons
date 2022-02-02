@@ -14,3 +14,4 @@ https://github.com/NeodomoEwe/HomeAssistant-Addons/
 
 - [hassio-cloudflareipupdater](https://github.com/NeodomoEwe/HomeAssistant-Addons/tree/main/hassio_cloudflareipupdater) Dynamic IP Updater for Cloudflare in Home Assistant
 - [hassio-hotspot](https://github.com/NeodomoEwe/HomeAssistant-Addons/tree/main/hassio-hotspot) Home Assistant addon to let you create a WiFi access point
+- [DahuaVTO2MQTT](https://github.com/NeodomoEwe/HomeAssistant-Addons/tree/main/DahuaVTO2MQTT) Comunication with Dahua VTO Doorbells using MQTT client
