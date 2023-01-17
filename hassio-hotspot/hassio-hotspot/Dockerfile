@@ -17,4 +17,4 @@ COPY dnsmasq.conf /
 COPY run.sh /
 RUN chmod a+x /run.sh
 
-CMD [ "/run.sh" ]
+exec /usr/bin/hassio-hotspot
